@@ -1,4 +1,4 @@
-This repository is made for the submission for the Mercor Chatbot Challenge 2.0
+This repository is made for the submission for the Mercor Chatbot Challenge 2.0,
 The AI chatbot has a number of features and can be read about in the following.
 
 # 1. Generate a fun fact:
