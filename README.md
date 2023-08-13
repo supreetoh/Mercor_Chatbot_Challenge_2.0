@@ -1,4 +1,5 @@
-This AI chatbot has a number of features and can be read about in the following.
+This repository is made for the submission for the Mercor Chatbot Challenge 2.0
+The AI chatbot has a number of features and can be read about in the following.
 
 # 1. Generate a fun fact:
 ```bash
@@ -16,7 +17,7 @@ The function calls a weather api to provide accurate and real time datat for a l
 The API key for the weather data extraction is given by the owner.
 
 
-# 3. Generate a Joke:
+# 3. Generate a Joke when prompted:
 ```bash
 generate_joke()
 ```
